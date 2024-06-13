@@ -1,5 +1,5 @@
 {
-    "name": "akalinich/impersonate-users-backpack-laravel",
+    "name": "magecom/impersonate-users-backpack-laravel",
     "description": "A simple package that adds the impersonate operation for admins",
     "type": "library",
     "require": {
